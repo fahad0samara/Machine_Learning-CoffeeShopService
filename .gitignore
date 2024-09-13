@@ -1,0 +1,40 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Model files
+*.joblib
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
+
+# Streamlit specific
+.streamlit/
+Lib
+

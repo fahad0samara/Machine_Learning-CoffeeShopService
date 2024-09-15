@@ -1,7 +1,5 @@
 
 
--
-
 # CoffeeShopServiceRatingPredictor
 
 ## Overview
